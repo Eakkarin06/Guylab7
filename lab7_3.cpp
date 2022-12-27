@@ -2,12 +2,6 @@
 
 using namespace std;
 
-
-int main(){
-  #include<iostream>
-
-using namespace std;
-
 int adiff(int x1,int x2)
 {
   int r1,r2;
@@ -38,4 +32,3 @@ int adiff(int x1,int x2)
   
   return 0;
 }
-
